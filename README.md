@@ -70,7 +70,7 @@ I enjoy working across **Artificial Intelligence, Machine Learning, Full-Stack D
 
 ### 🧠 AI/ML Research Intern — VIT-AP University
 
-**Centre of Excellence (AIR) | May 2026 – June 2026**
+**Centre of Excellence (AIR) | May 2026 – July 2026**
 
 * Built an end-to-end **Indian Sign Language recognition pipeline** using RTMPose and a Temporal Vision Transformer.
 * Worked on gesture classification across **20 classes** and evaluated multiple model architectures.
